@@ -1,0 +1,11 @@
+datatype,0.
+normlocal,1.
+usechi,0.
+bincoords,0
+Rsun,8000.
+Rlim,850.
+zmax,300.
+rbins,14.
+phibins,12.
+thetabins,14.
+zbins,14.
