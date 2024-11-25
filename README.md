@@ -1,6 +1,6 @@
 # UCD-SDP: Ultracool dwarfs spatial distribution and profile
 
-UCD-SDP is a code that models the spatial distribution of ultracool dwarfs in the Galactic disk. The code shows the applicability of the fitting method to a full sky sample of M ($\geq$ M9), L and T synthetic dwarfs from GalmodBD simulation. GalmodBD predicts differential number counts of L and T dwarfs as a function of apparent magnitudes and colors using the fundamental equation of stellar statistics and, also generates a synthetic sample of such objects in a given footprint, with positions and apparent magnitudes. For more information, GalmodBD is described in [Carnero Rosell et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5301C/abstract).
+UCD-SDP is a code that models the spatial distribution of ultracool dwarfs in the Galactic disk. The code shows the applicability of the fitting method to a full sky sample of M ($\geq$ M9), L and T synthetic dwarfs from GalmodBD simulation (for more information, Galmod is described in [Carnero Rosell et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5301C/abstract)).
 
 ## How it works
 
